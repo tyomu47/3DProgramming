@@ -23,6 +23,8 @@ public:
 
 private:
 
+	int aho;
+
 	void KdBeginUpdate();
 	void PreUpdate();
 	void Update();
